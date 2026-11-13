@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Simulation illustrations: AI-assisted coronary CT angiography and myocardial infarction prediction"
+version: 1.0.0
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/Dr-Qaim-Mehdi/ccta-ai-mi-simulations"
+authors:
+  - family-names: Rizvi
+    given-names: Qaim Mehdi
+    orcid: "https://orcid.org/0000-0002-0443-5314"
+keywords:
+  - coronary computed tomography angiography
+  - artificial intelligence
+  - myocardial infarction
+  - prediction models
+  - simulation

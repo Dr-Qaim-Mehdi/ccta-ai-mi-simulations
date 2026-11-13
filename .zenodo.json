@@ -1,0 +1,10 @@
+{
+  "title": "Simulation illustrations: AI-assisted coronary CT angiography and myocardial infarction prediction",
+  "upload_type": "software",
+  "description": "Companion code for the manuscript 'From plaque measurement to myocardial infarction prediction: a critical review of artificial intelligence in coronary CT angiography with simulation illustrations'. Five simulation experiments on SCOT-HEART-like simulated cohorts quantify outcome-selected threshold optimism, platform shift of volumetric plaque thresholds, competing death, incremental C-statistic instability and composite endpoints with scan-triggered revascularisation. No patient data are used.",
+  "creators": [
+    {"name": "Rizvi, Qaim Mehdi", "orcid": "0000-0002-0443-5314"}
+  ],
+  "license": "MIT",
+  "keywords": ["coronary computed tomography angiography", "artificial intelligence", "myocardial infarction", "prediction models", "simulation"]
+}

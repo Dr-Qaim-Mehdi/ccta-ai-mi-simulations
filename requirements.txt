@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+numba>=0.58  # optional, speeds up the C-index
+statsmodels>=0.14  # optional, used only for a self-check

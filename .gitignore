@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+/ccta_sim_results.json
+/ccta_sim_figure.png
