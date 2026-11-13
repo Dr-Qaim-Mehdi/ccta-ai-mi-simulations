@@ -1,5 +1,7 @@
 # Simulation illustrations: AI-assisted coronary CT angiography and myocardial infarction prediction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195555.svg)](https://doi.org/10.5281/zenodo.24195555)
+
 This repository holds the companion code for the manuscript *From plaque measurement to myocardial infarction prediction: a critical review of artificial intelligence in coronary CT angiography with simulation illustrations* (Q. M. Rizvi; in preparation).
 
 The simulations quantify five methodological problems that recur in studies of AI-assisted coronary CT angiography (CCTA) for predicting myocardial infarction (MI). The cohorts are simulated to resemble SCOT-HEART.
@@ -54,7 +56,11 @@ These are stylised illustrations of mechanism and magnitude. They are not estima
 
 ## Citation
 
-If you use this code, please cite it using the metadata in `CITATION.cff`. The Zenodo DOI for the archived release is shown in the badge once it has been minted.
+If you use this code, please cite the archived release:
+
+> Rizvi QM. *Simulation illustrations: AI-assisted coronary CT angiography and myocardial infarction prediction* [software]. Version 1.0.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.24195555
+
+Machine-readable citation metadata is in `CITATION.cff`.
 
 ## License
 
